@@ -8,3 +8,4 @@
 [![3DChess](https://github-readme-stats.vercel.app/api/pin/?username=py660&repo=3DChess)](https://github.com/py660/3DChess)
 [![RickMail](https://github-readme-stats.vercel.app/api/pin/?username=py660&repo=RickMail)](https://github.com/py660/RickMail)
 [![Pasta House Bookmarklet Index](https://github-readme-stats.vercel.app/api/pin/?username=py660&repo=Pasta-House)](https://github.com/py660/Pasta-House)
+[![Pixel Run](https://github-readme-stats.vercel.app/api/pin/?username=py660&repo=pixel.run)](https://github.com/py660/pixel.run)
