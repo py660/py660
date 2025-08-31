@@ -6,7 +6,7 @@
 [![URL Shortener](https://github-readme-stats.vercel.app/api/pin/?username=py660&repo=URL-Shortener)](https://github.com/py660/URL-Shortener)
 [![SwordBattleRewindIO](https://github-readme-stats.vercel.app/api/pin/?username=py660&repo=SwordBattleRewindIO)](https://github.com/py660/SwordBattleRewindIO)
 [![Replit Teams For Education Downloader](https://github-readme-stats.vercel.app/api/pin/?username=py660&repo=Replit-Teams-For-EDU-Downloader&update=1)](https://github.com/py660/Replit-Teams-For-EDU-Downloader)
-[![Powerschool Grade Percentage Viewer](https://github-readme-stats.vercel.app/api/pin/?username=py660&repo=PSPercentViewer&update=1)](https://github.com/py660/PSPercentViewer)
+<!--[![Powerschool Grade Percentage Viewer](https://github-readme-stats.vercel.app/api/pin/?username=py660&repo=PSPercentViewer&update=1)](https://github.com/py660/PSPercentViewer)-->
 [![Browser Pokemon](https://github-readme-stats.vercel.app/api/pin/?username=py660&repo=browser-pokemon)](https://github.com/py660/browser-pokemon)
 [![Pokemon Adventures](https://github-readme-stats.vercel.app/api/pin/?username=py660&repo=PokemonAdventures)](https://github.com/py660/PokemonAdventures)
 [![RickMail](https://github-readme-stats.vercel.app/api/pin/?username=py660&repo=RickMail)](https://github.com/py660/RickMail)
